@@ -26,11 +26,13 @@ Building on the previous heatmap, this visualization adds Gender as a filter sho
 This heatmap shows the user trips by gender and weekday. Here we see that the largest demographic of users are male subscribers.
 
 ![Screen Shot 2022-04-02 at 12 39 33 PM](https://user-images.githubusercontent.com/95504135/161392604-4f4081a7-e316-4278-ae7d-89df06911f06.png)
+This graph shows bike checkouts between 0 to 2 hours. We can see that the majority of users check out within an hour.
 
 ![Screen Shot 2022-04-02 at 12 39 49 PM](https://user-images.githubusercontent.com/95504135/161392609-8250467c-2e1a-4f46-a0ae-4f55fbd01639.png)
-
+Building on the previous chart, this chart adds the gender filter to show how user bike checkouts by gender. Aligning with our previous findings, we can see that male users use the service much more.
 
 ### Summary
+The analysis shows that the majority of users are males, the the days in which the service is used most are weekdays during commute hours. Furthermore, we see can see the locations in which bikes are checked out and returned on our map visualization. This map is of New York City and to no surprise, Manhattan has the highest levels of bikesharing use. This would mean that we would have to consider the densely populated areas of Des Moines, Iowa to deterine where the bikes will be set up.
 Tableau is a great program primarily because of its simplicity and ease of use, because of this there are numerous amounts of visualizations that could be made - additional visualizations could also be made that would be beneficial for this project:
 - A visulizaton that would show the correlation between Gender and Usertype could give insight as to what amount of Bikeshare users are customers or subscribers. This visualization could give insight to what demographic we could potentially advertize to, to come aboard as subscribers and not just customers.
 - We can also create a visualization that combines Gender, Birth Year, and Trip Duration to gain insight on the demographic of high and low use of the service based on age and gender.
